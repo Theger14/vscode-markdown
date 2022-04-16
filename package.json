@@ -6,7 +6,7 @@
     "version": "3.4.0",
     "publisher": "yzhang",
     "engines": {
-        "vscode": "^1.49.0"
+        "vscode": "^1.63.0"
     },
     "categories": [
         "Programming Languages",
